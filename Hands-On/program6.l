@@ -1,3 +1,4 @@
+/*Write a program to scan through an input program and identify keywords and valid identifiers.*/
 digit [0-9]
 letter [_A-Za-z]
 %{
